@@ -25,9 +25,9 @@
 <img height="30" src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img height="30" src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img height="30" src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img height="30" src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 
 
-<h2><img src="assets/pulse.svg" width="40px"> What I am currently learning </h2><br>
+<h2>What am I currently learning ? </h2><br>
 
-Currently learning about **Data Structures and Algorithms** to strengthen my core knowledge.<br/><br/>
+Currently learning about **Data Structures and Algorithms** to strengthen my code efficiency and problem solving. I am also looking forward to learn Java Spring Framework<br/><br/>
 
 </div>
 
