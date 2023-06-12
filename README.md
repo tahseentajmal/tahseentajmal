@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/gJyykbFH/Blue-and-White-Architect-Linked-In-Banner-3.png)](https://tahseentajmal.io)
+[![Blue-and-White-Architect-Linked-In-Banner-3.png](https://i.postimg.cc/gJyykbFH/Blue-and-White-Architect-Linked-In-Banner-3.png)](https://postimg.cc/r0mRQbpD)
 
 <h1 align="center">Hi 👋, I'm Tahseen Tajmal</h1>
 <h3 align="center">A passionate Full Stack developer from Kochi</h3>
