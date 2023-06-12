@@ -27,7 +27,7 @@
 
 <h2>What am I currently learning ? </h2><br>
 
-Currently learning about **Data Structures and Algorithms** to strengthen my code efficiency and problem solving. I am also looking forward to learn Java Spring Framework<br/><br/>
+Currently learning about **Data Structures and Algorithms** to strengthen my code efficiency and problem solving. I am also looking forward to learn **Java Spring Framework**.<br/><br/>
 
 </div>
 
