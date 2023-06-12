@@ -1,7 +1,7 @@
 [![Blue-and-White-Architect-Linked-In-Banner-3.png](https://i.postimg.cc/gJyykbFH/Blue-and-White-Architect-Linked-In-Banner-3.png)](https://postimg.cc/r0mRQbpD)
 
 <h1 align="center">Hi , I'm Tahseen Tajmal</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer (MEAN/MERN)</h3>
 
 - 🔭 I’m currently working on **MEAN/MERN Stack**
 
